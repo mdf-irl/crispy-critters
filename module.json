@@ -34,7 +34,7 @@
       }
     ]
   },
-  "manifest": "https://github.com/mdf-irl/crispy-critters/blob/master/module.json",
-  "download": "https://github.com/mdf-irl/crispy-critters/blob/master/module.zip",
+  "manifest": "https://raw.githubusercontent.com/YOUR_USERNAME/crispy-critters/main/module.json",
+  "download": "https://github.com/mdf-irl/crispy-critters/raw/refs/heads/master/module.zip",
   "flags": {}
 }
