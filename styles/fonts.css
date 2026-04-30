@@ -4,3 +4,10 @@
   font-style: normal;
   font-weight: 400;
 }
+
+@font-face {
+  font-family: "NewRocker";
+  src: url("../fonts/NewRocker-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
