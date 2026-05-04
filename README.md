@@ -2,12 +2,39 @@
   <img src="images/banner.jpg" width="1280">
 </p>
 
-# 🦗 Dr. Cricket's Crispy Critters
 Coming soon...
+
 ## 💾 Installation
 
 Install in Foundry VTT via manifest:  
 `https://raw.githubusercontent.com/mdf-irl/crispy-critters/master/module.json`
+
+---
+
+## 🎲 Texture Previews (hover for name, click to enlarge)
+<p align="center">
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
+</p>
 
 ---
 
