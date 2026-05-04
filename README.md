@@ -14,7 +14,7 @@ This project uses multiple licenses:
 ## 📎 Attribution
 
 ### Fonts
-* [New Rocker](https://fonts.google.com/specimen/New+Rocker) (new-rocker-v17-latin-regular.woff2):
+* [New Rocker](https://fonts.google.com/specimen/New+Rocker) (`new-rocker-v17-latin-regular.woff2`):
 ```
 Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),  
 Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com),  
