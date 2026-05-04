@@ -1,0 +1,33 @@
+All fonts included in this repository are licensed under the SIL Open Font License, Version 1.1 (OFL-1.1).
+
+> Each font is provided in its own directory.
+> Each font directory contains its own OFL.txt file, which is the authoritative license for that font.
+> Additional files (such as FONTLOG.txt, if present) may provide details about modifications.
+
+You are free to:
+> Use the fonts for personal and commercial purposes
+> Modify the fonts
+> Redistribute the fonts (with conditions)
+
+Under the following key terms:
+> Fonts must remain under the SIL Open Font License
+> You may not sell the fonts by themselves
+> Reserved Font Names (if specified) must be respected
+> Modified versions must not use Reserved Font Names
+
+If you redistribute this project or parts of it:
+> You must include the original OFL.txt file for each font
+> You should include any accompanying FONTLOG.txt if present
+> You must not remove or alter copyright notices
+
+Notes:
+> This file applies only to font files in this repository.
+> Code is licensed separately (see LICENSE).
+> Texture/image assets are licensed separately (see LICENSE-TEXTURES).
+
+Attribution:
+Font authors and copyright information are listed in each font’s  
+respective directory and OFL.txt file.
+
+To view the full OFL-1.1 license, visit:
+https://openfontlicense.org/
