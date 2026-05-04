@@ -7,7 +7,8 @@ This project uses multiple licenses:
 - **Fonts:** SIL Open Font License 1.1 (see LICENSE-FONTS and individual font folders)
 
 ### Important Notes
-- Commercial use of textures is **not allowed**
+- Commercial use of textures is **not permitted**
+- Use of textures **must be appropriately credited**
 - Fonts may have additional requirements (see individual OFL.txt files)
 
 ## 📎 Attribution
@@ -19,7 +20,6 @@ Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),
 Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com),  
 Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com),  
 with Reserved Font Name 'New Rocker',
-
 Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
 ```
 ### Textures
