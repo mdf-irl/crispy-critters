@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.jpg" width="1280">
+</p>
+
 # 🦗 Dr. Cricket's Crispy Critters
 Coming soon...
 ## 💾 Installation
