@@ -1,3 +1,12 @@
+# 🦗 Dr. Cricket's Crispy Critters
+Coming soon...
+## 💾 Installation
+
+Install in Foundry VTT via manifest:  
+`https://raw.githubusercontent.com/mdf-irl/crispy-critters/master/module.json`
+
+---
+
 ## 📜 Licensing
 
 This project uses multiple licenses:
@@ -10,6 +19,8 @@ This project uses multiple licenses:
 - Commercial use of textures is **not permitted**
 - Use of textures **must be appropriately credited**
 - Fonts may have additional requirements (see individual OFL.txt files)
+
+---
 
 ## 📎 Attribution
 
