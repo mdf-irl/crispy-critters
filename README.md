@@ -31,9 +31,6 @@ Install in Foundry VTT via manifest:
   <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
   <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
   <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
-  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
-  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
-  <a href="textures/vampira.webp"><img src="textures/vampira.webp" width="128" alt="Vampira" title="Vampira"/></a>
 </p>
 
 ---
