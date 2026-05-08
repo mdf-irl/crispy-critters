@@ -1,24 +1,31 @@
 @font-face {
   font-family: "🦗 Bangers";
-  font-style: normal;
-  font-weight: 400;
   src: url("../fonts/bangers/bangers-v25-latin-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
+
 @font-face {
   font-family: "🦗 Creepster";
-  font-style: normal;
-  font-weight: 400;
   src: url("../fonts/creepster/creepster-v13-latin-regular.woff2") format("woff2");
-}
-@font-face {
-  font-family: "🦗 Fredoka Bold";
+  font-weight: 400;
   font-style: normal;
-  font-weight: 700;
-  src: url("../fonts/fredoka/fredoka-v17-latin-700.woff2") format("woff2");
+  font-display: swap;
 }
+
+@font-face {
+  font-family: "🦗 Fredoka";
+  src: url("../fonts/fredoka/fredoka-v17-latin-700.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 @font-face {
   font-family: "🦗 New Rocker";
-  font-style: normal;
+  src: url("../fonts/new-rocker/new-rocker-v17-latin-regular.woff2") format("woff2");
   font-weight: 400;
-  src: url("../fonts/new-rocker/new-rocker-v17-latin-regular.woff2") format("woff2")
+  font-style: normal;
+  font-display: swap;
 }
