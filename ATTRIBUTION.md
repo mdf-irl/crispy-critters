@@ -1,6 +1,20 @@
 ## 📎 Attribution
-
 ### Fonts
+* [Bangers](https://fonts.google.com/specimen/Bangers) (`bangers-v25-latin-regular.woff2`):
+```
+Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)
+Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
+```
+* [Creepster](https://fonts.google.com/specimen/Creepster) (`creepster-v13-latin-regular.woff2`):
+```
+Copyright (c) 2011, Font Diner, Inc (diner@fontdiner.com), with Reserved Font Names "Creepster"
+Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
+```
+* [Fredoka](https://fonts.google.com/specimen/Fredoka) (`fredoka-v17-latin-700.woff2`)
+```
+Copyright 2016 The Fredoka Project Authors (https://github.com/hafontia/Fredoka-One)
+Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
+```
 * [New Rocker](https://fonts.google.com/specimen/New+Rocker) (`new-rocker-v17-latin-regular.woff2`):
 ```
 Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com),  
