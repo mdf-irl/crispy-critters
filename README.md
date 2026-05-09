@@ -12,12 +12,12 @@ Install in Foundry VTT via manifest:
 
 ## 🎲 Dice Previews (click to enlarge)
 <p align="center">
-  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
-  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
-  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
-  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
-  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
-  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="450" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="450" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="450" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="450" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="450" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="450" alt="test" title="test"/></a>
 </p>
 
 ---
