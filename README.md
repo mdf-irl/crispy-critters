@@ -12,15 +12,21 @@ Install in Foundry VTT via manifest:
 
 ## 🎲 Texture Previews (hover for name, click to enlarge)
 <p align="center">
+  <a href="textures/abyssal-grave.webp"><img src="textures/abyssal-grave.webp" width="128" alt="Abyssal Grave" title="Abyssal Grave"/></a>
   <a href="textures/astral-ember.webp"><img src="textures/astral-ember.webp" width="128" alt="Astral Ember" title="Astral Ember"/></a>
-  <a href="textures/astral-tide.webp"><img src="textures/astral-tide.webp" width="128" alt="Astral Tide" title="Astral Tider"/></a>
+  <a href="textures/astral-radiance.webp"><img src="textures/astral-radiance.webp" width="128" alt="Astral Radiance" title="Astral Radiance"/></a>
+  <a href="textures/astral-solaris.webp"><img src="textures/astral-solaris.webp" width="128" alt="Astral Solaris" title="Astral Solaris"/></a>
+  <a href="textures/astral-tempest.webp"><img src="textures/astral-tempest.webp" width="128" alt="Astral Tempest" title="Astral Tempest"/></a>
+  <a href="textures/astral-tide.webp"><img src="textures/astral-tide.webp" width="128" alt="Astral Tide" title="Astral Tide"/></a>
   <a href="textures/bbc.webp"><img src="textures/bbc.webp" width="128" alt="BBC (Big Beautiful Cow)" title="BBC (Big Beautiful Cow)"/></a>
   <a href="textures/candy-hearts.webp"><img src="textures/candy-hearts.webp" width="128" alt="Candy Hearts" title="Candy Hearts"/></a>
   <a href="textures/cosmic-chaos.webp"><img src="textures/cosmic-chaos.webp" width="128" alt="Cosmic Chaos" title="Cosmic Chaos"/></a>
   <a href="textures/cotton-candy.webp"><img src="textures/cotton-candy.webp" width="128" alt="Cotton Candy" title="Cotton Candy"/></a>
+  <a href="textures/dragon-scale.webp"><img src="textures/dragon-scale.webp" width="128" alt="Dragon Scale" title="Dragon Scale"/></a>
   <a href="textures/eldritch-night.webp"><img src="textures/eldritch-night.webp" width="128" alt="Eldritch Horror" title="Eldritch Night"/></a>
   <a href="textures/gabbys-grass.webp"><img src="textures/gabbys-grass.webp" width="128" alt="Gabby's Grass" title="Gabby's Grass"/></a>
   <a href="textures/god-damaged.webp"><img src="textures/god-damaged.webp" width="128" alt="God Damaged" title="God Damaged"/></a>
+  <a href="textures/hypno-creep.webp"><img src="textures/hypno-creep.webp" width="128" alt="Hypno Creep" title="Hypno Creep"/></a>
   <a href="textures/moon.webp"><img src="textures/moon.webp" width="128" alt="Moon" title="Moon"/></a>
   <a href="textures/nebula.webp"><img src="textures/nebula.webp" width="128" alt="Nebula" title="Nebula"/></a>
   <a href="textures/obsidian-ice.webp"><img src="textures/obsidian-ice.webp" width="128" alt="Obsidian Ice" title="Obsidian Ice"/></a>

@@ -25,6 +25,16 @@ const FONTS = {
 
 const THEMES = [
   {
+    name: "abyssal-grave", // 5-8-26
+    texture: "abyssal-grave",
+    description: "Abyssal Grave",
+    font: "Bangers",
+    foreground: "#ffffff",
+    background: "#005255",
+    outline: "#005255",
+    edge: "#005255"
+  },
+  {
     name: "astral-ember", // 5-8-26
     texture: "astral-ember",
     description: "Astral Ember",
@@ -33,6 +43,36 @@ const THEMES = [
     background: "#6d186c",
     outline: "#6d186c",
     edge: "#6d186c"
+  },
+  {
+    name: "astral-radiance", // 5-8-26
+    texture: "astral-radiance",
+    description: "Astral Radiance",
+    font: "Bangers",
+    foreground: "#ffffff",
+    background: "#efb10c",
+    outline: "#efb10c",
+    edge: "#efb10c"
+  },
+  {
+    name: "astral-solaris", // 5-8-26
+    texture: "astral-solaris",
+    description: "Astral Solaris",
+    font: "Bangers",
+    foreground: "#ffffff",
+    background: "#f64933",
+    outline: "#f64933",
+    edge: "#f64933"
+  },
+  {
+    name: "astral-tempest", // 5-8-26
+    texture: "astral-tempest",
+    description: "Astral Tempest",
+    font: "Bangers",
+    foreground: "#ffffff",
+    background: "#066f73",
+    outline: "#066f73",
+    edge: "#066f73"
   },
   {
     name: "astral-tide", // 5-8-26
@@ -84,6 +124,16 @@ const THEMES = [
     outline: "#ffffff",
     edge: "#ffffff"
   },
+  {
+    name: "dragon-scale", // 5-8-26
+    texture: "dragon-scale",
+    description: "Dragon Scale",
+    font: "Bangers",
+    foreground: "#ffffff",
+    background: "#cd4500",
+    outline: "#cd4500",
+    edge: "#cd4500"
+  },
   { 
     name: "eldritch-night", // 5-7-26
     texture: "eldritch-night",
@@ -113,6 +163,16 @@ const THEMES = [
     background: "#af03ef",
     outline: "#af03ef",
     edge: "#af03ef"
+  },
+  {
+    name: "hypno-creep", // 5-8-26
+    texture: "hypno-creep",
+    description: "Hypno Creep",
+    font: "Creepster",
+    foreground: "#000000", 
+    background: "#000000",
+    outline: "#ffffff", 
+    edge: "#000000"
   },
   {
     name: "moon", // 5-7-26
