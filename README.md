@@ -10,6 +10,18 @@ Install in Foundry VTT via manifest:
 
 ---
 
+## 🎲 Dice Previews (click to enlarge)
+<p align="center>"
+  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
+  <a href="images/test.webp"><img src="images/test.webp" width="580" alt="test" title="test"/></a>
+</p>
+
+---
+
 ## 🎲 Texture Previews (hover for name, click to enlarge)
 <p align="center">
   <a href="textures/abyssal-grave.webp"><img src="textures/abyssal-grave.webp" width="128" alt="Abyssal Grave" title="Abyssal Grave"/></a>
