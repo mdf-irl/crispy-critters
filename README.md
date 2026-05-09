@@ -47,7 +47,7 @@ Install in Foundry VTT via manifest:
 ---
 
 ## 📜 Licensing
-This project uses multiple licenses:
+This project is licensed under the [Foundry Virtual Tabletop End User License Agreement's Limited License for Package Development](https://foundryvtt.com/article/license/) and uses the following licenses:
 
 - **Code:** MIT License (see LICENSE)
 - **Textures / Image Assets:** CC BY-NC-SA 4.0 (see LICENSE-TEXTURES)
