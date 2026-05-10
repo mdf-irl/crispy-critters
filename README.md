@@ -12,12 +12,10 @@ Install in Foundry VTT via manifest:
 
 ## 🎲 Dice Previews (click to enlarge)
 <p align="center">
-  <a href="images/preview-ss-barbarian.webp"><img src="images/preview-ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
-  <a href="images/preview-ss-barbarian.webp"><img src="images/preview-ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
-  <a href="images/preview-ss-barbarian.webp"><img src="images/preview-ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
-  <a href="images/preview-ss-barbarian.webp"><img src="images/preview-ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
-  <a href="images/preview-ss-barbarian.webp"><img src="images/preview-ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
-  <a href="images/preview-ss-barbarian.webp"><img src="images/preview-ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
+  <a href="images/ss-barbarian.webp"><img src="images/ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
+  <a href="images/ss-bard.webp"><img src="images/ss-bard.webp" width="400" alt="Signature Series: Bard" title="Signature Series: Bard"/></a>
+  <a href="images/ss-cleric.webp"><img src="images/ss-cleric.webp" width="400" alt="Signature Series: Cleric" title="Signature Series: Cleric"/></a>
+  <a href="images/ss-druid.webp"><img src="images/ss-druid.webp" width="400" alt="Signature Series: Druid" title="Signature Series: Druid"/></a>
 </p>
 
 ---
