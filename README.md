@@ -20,7 +20,7 @@ Install in Foundry VTT via manifest:
 
 ---
 
-## 🎲 Texture Previews (hover for name, click to enlarge)
+## 🎲 Full Texture Previews (hover for name, click to enlarge)
 <p align="center">
   <a href="textures/abyssal-grave.webp"><img src="textures/abyssal-grave.webp" width="128" alt="Abyssal Grave" title="Abyssal Grave"/></a>
   <a href="textures/astral-ember.webp"><img src="textures/astral-ember.webp" width="128" alt="Astral Ember" title="Astral Ember"/></a>
@@ -57,7 +57,7 @@ Install in Foundry VTT via manifest:
 ---
 
 ## 📜 Licensing
-This project is licensed under the [Foundry Virtual Tabletop End User License Agreement's Limited License for Package Development](https://foundryvtt.com/article/license/) and uses the following licenses:
+This project is licensed under the [Foundry Virtual Tabletop End User License Agreement's Limited License for Package Development](https://foundryvtt.com/article/license/) and maintains the following licenses:
 
 - **Code:** MIT License (see LICENSE)
 - **Textures / Image Assets:** CC BY-NC-SA 4.0 (see LICENSE-TEXTURES)
