@@ -16,6 +16,14 @@ Install in Foundry VTT via manifest:
   <a href="images/ss-bard.webp"><img src="images/ss-bard.webp" width="400" alt="Signature Series: Bard" title="Signature Series: Bard"/></a>
   <a href="images/ss-cleric.webp"><img src="images/ss-cleric.webp" width="400" alt="Signature Series: Cleric" title="Signature Series: Cleric"/></a>
   <a href="images/ss-druid.webp"><img src="images/ss-druid.webp" width="400" alt="Signature Series: Druid" title="Signature Series: Druid"/></a>
+  <a href="images/ss-fighter.webp"><img src="images/ss-fighter.webp" width="400" alt="Signature Series: Fighter" title="Signature Series: Fighter"/></a>
+  <a href="images/ss-monk.webp"><img src="images/ss-monk.webp" width="400" alt="Signature Series: Monk" title="Signature Series: Monk"/></a>
+  <a href="images/ss-paladin.webp"><img src="images/ss-paladin.webp" width="400" alt="Signature Series: Paladin" title="Signature Series: Paladin"/></a>
+  <a href="images/ss-ranger.webp"><img src="images/ss-ranger.webp" width="400" alt="Signature Series: Ranger" title="Signature Series: Ranger"/></a>
+  <a href="images/ss-rogue.webp"><img src="images/ss-rogue.webp" width="400" alt="Signature Series: Rogue" title="Signature Series: Rogue"/></a>
+  <a href="images/ss-sorcerer.webp"><img src="images/ss-sorcerer.webp" width="400" alt="Signature Series: Sorcerer" title="Signature Series: Sorcerer"/></a>
+  <a href="images/ss-warlock.webp"><img src="images/ss-warlock.webp" width="400" alt="Signature Series: Warlock" title="Signature Series: Warlock"/></a>
+  <a href="images/ss-wizard.webp"><img src="images/ss-wizard.webp" width="400" alt="Signature Series: Wizard" title="Signature Series: Wizard"/></a>
 </p>
 
 ---
