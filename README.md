@@ -12,9 +12,13 @@ Install in Foundry VTT via manifest:
 
 ## 🎲 Dice Gallery (click to enlarge)
 <p align="center">
+  <a href="images/as-cosmic-chaos.webp"><img src="images/as-cosmic-chaos.webp" width="400" alt="Astral Series: Cosmic Chaos" title="Astral Series: Cosmic Chaos"/></a>
   <a href="images/as-ember.webp"><img src="images/as-ember.webp" width="400" alt="Astral Series: Ember" title="Astral Series: Ember"/></a>
+  <a href="images/as-moon.webp"><img src="images/as-moon.webp" width="400" alt="Astral Series: Moon" title="Astral Series: Moon"/></a>
+  <a href="images/as-nebula.webp"><img src="images/as-nebula.webp" width="400" alt="Astral Series: Nebula" title="Astral Series: Nebula"/></a>
   <a href="images/as-radiance.webp"><img src="images/as-radiance.webp" width="400" alt="Astral Series: Radiance" title="Astral Series: Radiance"/></a>
   <a href="images/as-solaris.webp"><img src="images/as-solaris.webp" width="400" alt="Astral Series: Solaris" title="Astral Series: Solaris"/></a>
+  <a href="images/as-space-oddity.webp"><img src="images/as-space-oddity.webp" width="400" alt="Astral Series: Space Oddity" title="Astral Series: Space Oddity"/></a>
   <a href="images/as-tempest.webp"><img src="images/as-tempest.webp" width="400" alt="Astral Series: Tempest" title="Astral Series: Tempest"/></a>
   <a href="images/as-tide.webp"><img src="images/as-tide.webp" width="400" alt="Astral Series: Tide" title="Astral Series: Tide"/></a>
   <a href="images/ss-barbarian.webp"><img src="images/ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
