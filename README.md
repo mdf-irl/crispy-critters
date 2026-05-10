@@ -10,7 +10,7 @@ Install in Foundry VTT via manifest:
 
 ---
 
-## 🎲 Dice Previews (click to enlarge)
+## 🎲 Dice Gallery (click to enlarge)
 <p align="center">
   <a href="images/ss-barbarian.webp"><img src="images/ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
   <a href="images/ss-bard.webp"><img src="images/ss-bard.webp" width="400" alt="Signature Series: Bard" title="Signature Series: Bard"/></a>
@@ -28,7 +28,7 @@ Install in Foundry VTT via manifest:
 
 ---
 
-## 🎲 Full Texture Previews (hover for name, click to enlarge)
+## 🎲 Full Texture Gallery (hover for name, click to enlarge)
 <p align="center">
   <a href="textures/abyssal-grave.webp"><img src="textures/abyssal-grave.webp" width="128" alt="Abyssal Grave" title="Abyssal Grave"/></a>
   <a href="textures/astral-ember.webp"><img src="textures/astral-ember.webp" width="128" alt="Astral Ember" title="Astral Ember"/></a>
