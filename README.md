@@ -21,6 +21,9 @@ Install in Foundry VTT via manifest:
   <a href="images/as-space-oddity.webp"><img src="images/as-space-oddity.webp" width="400" alt="Astral Series: Space Oddity" title="Astral Series: Space Oddity"/></a>
   <a href="images/as-tempest.webp"><img src="images/as-tempest.webp" width="400" alt="Astral Series: Tempest" title="Astral Series: Tempest"/></a>
   <a href="images/as-tide.webp"><img src="images/as-tide.webp" width="400" alt="Astral Series: Tide" title="Astral Series: Tide"/></a>
+  <a href="images/os-ice.webp"><img src="images/os-ice.webp" width="400" alt="Obsidian Series: Ice" title="Obsidian Series: Ice"/></a>
+  <a href="images/os-magma.webp"><img src="images/os-magma.webp" width="400" alt="Obsidian Series: Magma" title="Obsidian Series: Magma"/></a>
+  <a href="images/os-ooze.webp"><img src="images/os-ooze.webp" width="400" alt="Obsidian Series: Ooze" title="Obsidian Series: Ooze"/></a>  
   <a href="images/ss-barbarian.webp"><img src="images/ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
   <a href="images/ss-bard.webp"><img src="images/ss-bard.webp" width="400" alt="Signature Series: Bard" title="Signature Series: Bard"/></a>
   <a href="images/ss-cleric.webp"><img src="images/ss-cleric.webp" width="400" alt="Signature Series: Cleric" title="Signature Series: Cleric"/></a>
