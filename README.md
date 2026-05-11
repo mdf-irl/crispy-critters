@@ -48,6 +48,12 @@ Install in Foundry VTT via manifest:
   <a href="images/sps-party-skulls.webp"><img src="images/sps-party-skulls.webp" width="400" alt="Spooky Series: Party Skulls" title="Spooky Series: Party Skulls"/></a>
   <a href="images/sps-spooky-ghosts.webp"><img src="images/sps-spooky-ghosts.webp" width="400" alt="Spooky Series: Spooky Ghosts" title="Spooky Series: Spooky Ghosts"/></a>
   <a href="images/sps-zombies.webp"><img src="images/sps-zombies.webp" width="400" alt="Spooky Series: Zombies" title="Spooky Series: Zombies"/></a>
+  <a href="images/ws-bbc.webp"><img src="images/ws-bbc.webp" width="400" alt="Wildcard Series: BBC (Big Beautiful Cow)" title="Wildcard Series: BBC (Big Beautiful Cow)"/></a>
+  <a href="images/ws-dragon-scale.webp"><img src="images/ws-dragon-scale.webp" width="400" alt="Wildcard Series: Dragon Scale" title="Wildcard Series: Dragon Scale"/></a>
+  <a href="images/ws-gabbys-grass.webp"><img src="images/ws-gabbys-grass.webp" width="400" alt="Wildcard Series: Gabby's Grass" title="Wildcard Series: Gabby's Grass"/></a>
+  <a href="images/ws-san-diego-sunset.webp"><img src="images/ws-san-diego-sunset.webp" width="400" alt="Wildcard Series: San Diego Sunset" title="Wildcard Series: San Diego Sunset"/></a>
+  <a href="images/ws-vampira.webp"><img src="images/ws-vampira.webp" width="400" alt="Wildcard Series: Vampira" title="Wildcard Series: Vampira"/></a>
+  <a href="images/ws-winter-is-coming.webp"><img src="images/ws-winter-is-coming.webp" width="400" alt="Wildcard Series: Winter Is Coming" title="Wildcard Series: Winter Is Coming"/></a>
 </p>
 
 ---
