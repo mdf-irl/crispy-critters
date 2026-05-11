@@ -21,6 +21,9 @@ Install in Foundry VTT via manifest:
   <a href="images/as-space-oddity.webp"><img src="images/as-space-oddity.webp" width="400" alt="Astral Series: Space Oddity" title="Astral Series: Space Oddity"/></a>
   <a href="images/as-tempest.webp"><img src="images/as-tempest.webp" width="400" alt="Astral Series: Tempest" title="Astral Series: Tempest"/></a>
   <a href="images/as-tide.webp"><img src="images/as-tide.webp" width="400" alt="Astral Series: Tide" title="Astral Series: Tide"/></a>
+  <a href="images/cs-candy-hearts.webp"><img src="images/cs-candy-hearts.webp" width="400" alt="Candy Series: Candy Hearts" title="Candy Series: Candy Hearts"/></a>
+  <a href="images/cs-cotton-candy.webp"><img src="images/cs-cotton-candy.webp" width="400" alt="Candy Series: Cotton Candy" title="Candy Series: Cotton Candy"/></a>
+  <a href="images/cs-sweets.webp"><img src="images/cs-sweets.webp" width="400" alt="Candy Series: Sweets" title="Candy Series: Sweets"/></a>
   <a href="images/os-ice.webp"><img src="images/os-ice.webp" width="400" alt="Obsidian Series: Ice" title="Obsidian Series: Ice"/></a>
   <a href="images/os-magma.webp"><img src="images/os-magma.webp" width="400" alt="Obsidian Series: Magma" title="Obsidian Series: Magma"/></a>
   <a href="images/os-ooze.webp"><img src="images/os-ooze.webp" width="400" alt="Obsidian Series: Ooze" title="Obsidian Series: Ooze"/></a>  
