@@ -68,11 +68,6 @@ This project is licensed under the [Foundry Virtual Tabletop End User License Ag
 
 ## 📎 Attribution
 ### Fonts
-* [Bangers](https://fonts.google.com/specimen/Bangers) (`bangers-v25-latin-regular.woff2`):
-```
-Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)
-Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
-```
 * [Creepster](https://fonts.google.com/specimen/Creepster) (`creepster-v13-latin-regular.woff2`):
 ```
 Copyright (c) 2011, Font Diner, Inc (diner@fontdiner.com), with Reserved Font Names "Creepster"
@@ -81,6 +76,11 @@ Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlic
 * [Fredoka](https://fonts.google.com/specimen/Fredoka) (`fredoka-v17-latin-700.woff2`)
 ```
 Copyright 2016 The Fredoka Project Authors (https://github.com/hafontia/Fredoka-One)
+Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
+```
+* [Montserrat](https://fonts.google.com/specimen/Montserrat) (`montserrat-v31-latin-700.woff2`)
+```
+Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
 Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
 ```
 * [New Rocker](https://fonts.google.com/specimen/New+Rocker) (`new-rocker-v17-latin-regular.woff2`):
