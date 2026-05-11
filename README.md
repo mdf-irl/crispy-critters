@@ -26,7 +26,9 @@ Install in Foundry VTT via manifest:
   <a href="images/cs-sweets.webp"><img src="images/cs-sweets.webp" width="400" alt="Candy Series: Sweets" title="Candy Series: Sweets"/></a>
   <a href="images/os-ice.webp"><img src="images/os-ice.webp" width="400" alt="Obsidian Series: Ice" title="Obsidian Series: Ice"/></a>
   <a href="images/os-magma.webp"><img src="images/os-magma.webp" width="400" alt="Obsidian Series: Magma" title="Obsidian Series: Magma"/></a>
-  <a href="images/os-ooze.webp"><img src="images/os-ooze.webp" width="400" alt="Obsidian Series: Ooze" title="Obsidian Series: Ooze"/></a>  
+  <a href="images/os-ooze.webp"><img src="images/os-ooze.webp" width="400" alt="Obsidian Series: Ooze" title="Obsidian Series: Ooze"/></a>
+  <a href="images/ps-pixie-blue.webp"><img src="images/ps-pixie-blue.webp" width="400" alt="Pixie Series: Pixie Blue" title="Pixie Series: Pixie Blue"/></a>
+  <a href="images/ps-pixie-pink.webp"><img src="images/ps-pixie-pink.webp" width="400" alt="Pixie Series: Pixie Pink" title="Pixie Series: Pixie Pink"/></a> 
   <a href="images/ss-barbarian.webp"><img src="images/ss-barbarian.webp" width="400" alt="Signature Series: Barbarian" title="Signature Series: Barbarian"/></a>
   <a href="images/ss-bard.webp"><img src="images/ss-bard.webp" width="400" alt="Signature Series: Bard" title="Signature Series: Bard"/></a>
   <a href="images/ss-cleric.webp"><img src="images/ss-cleric.webp" width="400" alt="Signature Series: Cleric" title="Signature Series: Cleric"/></a>
@@ -39,6 +41,13 @@ Install in Foundry VTT via manifest:
   <a href="images/ss-sorcerer.webp"><img src="images/ss-sorcerer.webp" width="400" alt="Signature Series: Sorcerer" title="Signature Series: Sorcerer"/></a>
   <a href="images/ss-warlock.webp"><img src="images/ss-warlock.webp" width="400" alt="Signature Series: Warlock" title="Signature Series: Warlock"/></a>
   <a href="images/ss-wizard.webp"><img src="images/ss-wizard.webp" width="400" alt="Signature Series: Wizard" title="Signature Series: Wizard"/></a>
+  <a href="images/sps-abyssal-grave.webp"><img src="images/sps-abyssal-grave.webp" width="400" alt="Spooky Series: Abyssal Grave" title="Spooky Series: Abyssal Grave"/></a>
+  <a href="images/sps-eldritch-night.webp"><img src="images/sps-eldritch-night.webp" width="400" alt="Spooky Series: Eldritch Night" title="Spooky Series: Eldritch Night"/></a>
+  <a href="images/sps-god-damaged.webp"><img src="images/sps-god-damaged.webp" width="400" alt="Spooky Series: God Damaged" title="Spooky Series: God Damaged"/></a>
+  <a href="images/sps-hypno-creep.webp"><img src="images/sps-hypno-creep.webp" width="400" alt="Spooky Series: Hypno Creep" title="Spooky Series: Hypno Creep"/></a>
+  <a href="images/sps-party-skulls.webp"><img src="images/sps-party-skulls.webp" width="400" alt="Spooky Series: Party Skulls" title="Spooky Series: Party Skulls"/></a>
+  <a href="images/sps-spooky-ghosts.webp"><img src="images/sps-spooky-ghosts.webp" width="400" alt="Spooky Series: Spooky Ghosts" title="Spooky Series: Spooky Ghosts"/></a>
+  <a href="images/sps-zombies.webp"><img src="images/sps-zombies.webp" width="400" alt="Spooky Series: Zombies" title="Spooky Series: Zombies"/></a>
 </p>
 
 ---
