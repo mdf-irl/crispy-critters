@@ -16,319 +16,104 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 */
 
+const MODULE_ID = "crispy-critters";
+const PREFIX = "🦗";
+const PATH = `modules/${MODULE_ID}`;
+
 const FONTS = {
-  "Bangers": "bangers/bangers-v25-latin-regular.woff2",
-  "Creepster": "creepster/creepster-v13-latin-regular.woff2",
-  "Fredoka": "fredoka/fredoka-v17-latin-700.woff2",
-  "New Rocker": "new-rocker/new-rocker-v17-latin-regular.woff2"
+  "Montserrat": "montserrat/montserrat-v31-latin-700.woff2",
 };
 
-const THEMES = [
-  {
-    name: "abyssal-grave", // 5-8-26
-    texture: "abyssal-grave",
-    description: "Abyssal Grave",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#005255",
-    outline: "#005255",
-    edge: "#005255"
-  },
-  {
-    name: "astral-ember", // 5-8-26
-    texture: "astral-ember",
-    description: "Astral Ember",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#6d186c",
-    outline: "#6d186c",
-    edge: "#6d186c"
-  },
-  {
-    name: "astral-radiance", // 5-8-26
-    texture: "astral-radiance",
-    description: "Astral Radiance",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#efb10c",
-    outline: "#efb10c",
-    edge: "#efb10c"
-  },
-  {
-    name: "astral-solaris", // 5-8-26
-    texture: "astral-solaris",
-    description: "Astral Solaris",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#f64933",
-    outline: "#f64933",
-    edge: "#f64933"
-  },
-  {
-    name: "astral-tempest", // 5-8-26
-    texture: "astral-tempest",
-    description: "Astral Tempest",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#066f73",
-    outline: "#066f73",
-    edge: "#066f73"
-  },
-  {
-    name: "astral-tide", // 5-8-26
-    texture: "astral-tide",
-    description: "Astral Tide",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#358363",
-    outline: "#358363",
-    edge: "#358363"
-  },
-  {
-    name: "bbc", // 5-7-26
-    texture: "bbc",
-    description: "BBC (Big Beautiful Cow)",
-    font: "Fredoka",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#ffffff"
-  },
-  {
-    name: "candy-hearts", // 5-7-26
-    texture: "candy-hearts",
-    description: "Candy Hearts",
-    font: "Fredoka",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#ffffff"
-  },
-  {
-    name: "cosmic-chaos", // 5-8-26
-    texture: "cosmic-chaos",
-    description: "Cosmic Chaos",
-    font: "Bangers",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#fcae31"
-  },
-  {
-    name: "cotton-candy", // 5-8-26
-    texture: "cotton-candy",
-    description: "Cotton Candy",
-    font: "Fredoka",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#ffffff"
-  },
-  {
-    name: "dragon-scale", // 5-8-26
-    texture: "dragon-scale",
-    description: "Dragon Scale",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#cd4500",
-    outline: "#cd4500",
-    edge: "#cd4500"
-  },
-  { 
-    name: "eldritch-night", // 5-7-26
-    texture: "eldritch-night",
-    description: "Eldritch Night",
-    font: "Creepster",
-    foreground: "#000000", 
-    background: "#000000",
-    outline: "#ff4da6", 
-    edge: "#ff4da6"
-  },
-  {
-    name: "gabbys-grass", // 5-7-26
-    texture: "gabbys-grass",
-    description: "Gabby's Grass",
-    font: "New Rocker",
-    foreground: "#ffffff",
-    background: "#000000",
-    outline: "#66a509",
-    edge: "#66a509"
-  },  
-  {
-    name: "god-damaged", // 5-7-26
-    texture: "god-damaged",
-    description: "God Damaged",
-    font: "New Rocker",
-    foreground: "#ffffff",
-    background: "#af03ef",
-    outline: "#af03ef",
-    edge: "#af03ef"
-  },
-  {
-    name: "hypno-creep", // 5-8-26
-    texture: "hypno-creep",
-    description: "Hypno Creep",
-    font: "Creepster",
-    foreground: "#000000", 
-    background: "#000000",
-    outline: "#ffffff", 
-    edge: "#000000"
-  },
-  {
-    name: "moon", // 5-7-26
-    texture: "moon",
-    description: "Moon",
-    font: "New Rocker",
-    foreground: "#32333e",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#32333e"
-  },
-  {
-    name: "nebula", // 5-8-26
-    texture: "nebula",
-    description: "Nebula",
-    font: "New Rocker",
-    foreground: "#ffffff",
-    background: "#003b99",
-    outline: "#003b99",
-    edge: "#003b99"
-  },
-  {
-    name: "obsidian-ice", // 5-7-26
-    texture: "obsidian-ice",
-    description: "Obsidian Ice",
-    font: "New Rocker",
-    foreground: "#ffffff",
-    background: "#80a6ff",
-    outline: "#80a6ff",
-    edge: "#80a6ff"
-  },
-  {
-    name: "obsidian-magma", // 5-7-26
-    texture: "obsidian-magma",
-    description: "Obsidian Magma",
-    font: "New Rocker",
-    foreground: "#ffffff",
-    background: "#c73032",
-    outline: "#c73032",
-    edge: "#c73032"
-  },
-  {
-    name: "obsidian-ooze", // 5-7-26
-    texture: "obsidian-ooze",
-    description: "Obsidian Ooze",
-    font: "New Rocker",
-    foreground: "#ffffff",
-    background: "#9cd604",
-    outline: "#9cd604",
-    edge: "#9cd604"
-  },
-  {
-    name: "party-skulls", // 5-7-26
-    texture: "party-skulls",
-    description: "Party Skulls",
-    font: "Bangers",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#ffffff"
-  },
-  { 
-    name: "pixie-blue", // 5-7-26
-    texture: "pixie-blue",
-    description: "Pixie Blue",
-    font: "Bangers",
-    foreground: "#0007c7",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#ffffff"
-  },
-  { 
-    name: "pixie-pink", // 5-7-26
-    texture: "pixie-pink",
-    description: "Pixie Pink",
-    font: "Bangers",
-    foreground: "#db008b",
-    background: "#000000",
-    outline: "#000000",
-    edge: "#ffffff"
-  },
-  { 
-    name: "san-diego-sunset", // 5-8-26
-    texture: "san-diego-sunset",
-    description: "San Diego Sunset",
-    font: "Bangers",
-    foreground: "#ffffff",
-    background: "#ef0200",
-    outline: "#ef0200",
-    edge: "#ef0200"
-  },
-  {
-    name: "space-oddity", // 5-7-26
-    texture: "space-oddity",
-    description: "Space Oddity",
-    font: "New Rocker",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#1d4e6d"
-  },
-  {
-    name: "spooky-ghosts", // 5-7-26
-    texture: "spooky-ghosts",
-    description: "Spooky Ghosts",
-    font: "Creepster",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#ffffff"
-  },
-  {
-    name: "sweets", // 5-7-26
-    texture: "sweets",
-    description: "Sweets",
-    font: "Fredoka",
-    foreground: "#000000",
-    background: "#000000",
-    outline: "#ffffff",
-    edge: "#ffffff"
-  },
-  {
-    name: "vampira", // 5-7-26
-    texture: "vampira",
-    description: "Vampira",
-    font: "New Rocker",
-    foreground: "#ffffff", 
-    background: "#c73032",
-    outline: "#c73032", 
-    edge: "#c73032"
-  },
-  {
-    name: "winter-is-coming", // 5-7-26
-    texture: "winter-is-coming",
-    description: "Winter Is Coming",
-    font: "New Rocker",
-    foreground: "#ffffff", 
-    background: "#80a6ff",
-    outline: "#80a6ff", 
-    edge: "#80a6ff"
-  },
-  {
-    name: "zombies", // 5-7-26
-    texture: "zombies",
-    description: "Zombies",
-    font: "Bangers",
-    foreground: "#000000", 
-    background: "#000000",
-    outline: "#7cff6b", 
-    edge: "#7cff6b"
-  }
-];
+const THEME_DEFAULT = {
+  font: "Montserrat",
+  foreground: "#ffffff",
+  material: "plastic",
+  visibility: "visible"
+};
 
-Hooks.on("init", () => {
-  registerFonts();
-});
+const SERIES = {
+  "Astral Series": [
+    ["cosmic-chaos", "Cosmic Chaos", "#fcae31"],
+    ["ember", "Ember", "#6d186c"],
+    ["moon", "Moon", "#32333e"],
+    ["nebula", "Nebula", "#003b99"],
+    ["radiance", "Radiance", "#efb10c"],
+    ["solaris", "Solaris", "#f64933"],
+    ["space-oddity", "Space Oddity", "#1d4e6d"],
+    ["tempest", "Tempest", "#066f73"],
+    ["tide", "Tide", "#358363"]
+  ],
+
+  "Candy Series": [
+    ["candy-hearts", "Candy Hearts", "#bb0306"],
+    ["cotton-candy", "Cotton Candy", "#fb87c3"],
+    ["sweets", "Sweets", "#fa9633"]
+  ],
+
+  "Obsidian Series": [
+    ["ice", "Ice", "#80a6ff"],
+    ["magma", "Magma", "#c73032"],
+    ["ooze", "Ooze", "#9cd604"]
+  ],
+
+  "Pixie Series": [
+    ["pixie-blue", "Pixie Blue", "#2badff"],
+    ["pixie-pink", "Pixie Pink", "#ff89ff"]
+  ],
+
+  "Signature Series": [
+    ["barbarian", "Barbarian", "#e7623e"],
+    ["bard", "Bard", "#ab6dac"],
+    ["cleric", "Cleric", "#91a1b2"],
+    ["druid", "Druid", "#7a853b"],
+    ["fighter", "Fighter", "#7f513e"],
+    ["monk", "Monk", "#51a5c5"],
+    ["paladin", "Paladin", "#b59e54"],
+    ["ranger", "Ranger", "#507f62"],
+    ["rogue", "Rogue", "#555752"],
+    ["sorcerer", "Sorcerer", "#992e2e"],
+    ["warlock", "Warlock", "#7b469b"],
+    ["wizard", "Wizard", "#2a50a1"]
+  ],
+
+  "Spooky Series": [
+    ["abyssal-grave", "Abyssal Grave", "#005255"],
+    ["eldritch-night", "Eldritch Night", "#784a78"],
+    ["god-damaged", "God Damaged", "#af03ef"],
+    ["hypno-creep", "Hypno Creep", "#161616"],
+    ["party-skulls", "Party Skulls", "#07bfb0"],
+    ["spooky-ghosts", "Spooky Ghosts", "#1b1e2a"],
+    ["zombies", "Zombies", "#7b9c86"]
+  ],
+
+  "Wildcard Series": [
+    ["bbc", "BBC (Big Beautiful Cow)", "#ffffff", {
+      foreground: "#000000",
+      background: "#000000",
+    }],
+    ["dragon-scale", "Dragon Scale", "#cd4500"],
+    ["gabbys-grass", "Gabby's Grass", "#66a509"],
+    ["san-diego-sunset", "San Diego Sunset", "#ef0200"],
+    ["vampira", "Vampira", "#c73032"],
+    ["winter-is-coming", "Winter Is Coming", "#80a6ff"]
+  ]
+};
+
+const THEMES = Object.entries(SERIES).flatMap(([category, themes]) =>
+  themes.map(([name, description, color, overrides = {}]) => ({
+    ...THEME_DEFAULT,
+    name,
+    texture: name,
+    description,
+    category,
+    background: color,
+    outline: color,
+    edge: color,
+    ...overrides
+  }))
+);
+
+Hooks.on("init", registerFonts);
 
 Hooks.once("diceSoNiceReady", async (dice3d) => {
   await registerTextures(dice3d);
@@ -337,40 +122,35 @@ Hooks.once("diceSoNiceReady", async (dice3d) => {
 
 function registerFonts() {
   for (const [name, file] of Object.entries(FONTS)) {
-    CONFIG.fontDefinitions[`🦗 ${name}`] = {
+    CONFIG.fontDefinitions[`${PREFIX} ${name}`] = {
       editor: true,
-      fonts: [{ urls: [`modules/crispy-critters/fonts/${file}`] }]
+      fonts: [{ urls: [`${PATH}/fonts/${file}`] }]
     };
   }
 }
 
 async function registerTextures(dice3d) {
-  for (const theme of THEMES) {
-    await dice3d.addTexture(theme.name, {
-      name: `🦗 ${theme.description}`,
-      composite: "source-over",
-      source: `modules/crispy-critters/textures/${theme.texture}.webp`
-    });
-  }
+  await Promise.all(
+    THEMES.map(({ name, description, texture }) =>
+      dice3d.addTexture(name, {
+        name: `${PREFIX} ${description}`,
+        composite: "source-over",
+        source: `${PATH}/textures/${texture}.webp`
+      })
+    )
+  );
 }
 
 function registerThemes(dice3d) {
   for (const theme of THEMES) {
     dice3d.addColorset(
       {
-        name: theme.name,
-        texture: theme.texture,
-        description: `🦗 ${theme.description}`,
-        category: "🦗 Crispy Critters",
-        material: "plastic",
-        font: `🦗 ${theme.font}`,
-        foreground: theme.foreground,
-        background: theme.background,
-        outline: theme.outline,
-        edge: theme.edge,
-        visibility: "visible"
+        ...theme,
+        description: `${PREFIX} ${theme.description}`,
+        category: `${PREFIX} ${theme.category}`,
+        font: `${PREFIX} ${theme.font}`
       },
       "preferred"
-    )
+    );
   }
 }
