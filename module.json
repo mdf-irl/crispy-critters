@@ -2,7 +2,7 @@
   "id": "crispy-critters",
   "title": "🦗 Dr. Cricket's Crispy Critters",
   "description": "Dr. Cricket's Crispy Critters is a new module for Foundry Virtual Tabletop that functions as an add-on to the popular Dice So Nice! module, adding a plethora of custom new dice sets and customization options for your 3D dice rolling pleasure.",
-  "version": "1.1",
+  "version": "1.2",
   "authors": [
     {
       "name": "mdf",
