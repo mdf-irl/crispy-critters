@@ -6,13 +6,15 @@
 
 
 ## 💾 Installation
-Install in Foundry Virtual Tabletop via manifest:  
+Install in Foundry VTT via manifest:  
 `https://raw.githubusercontent.com/mdf-irl/crispy-critters/master/module.json`
 
 ---
 
 ## 🎲 Dice Gallery (click to enlarge)
 <p align="center">
+  <a href="images/as-black-hole.webp"><img src="images/as-black-hole.webp" width="400" alt="Astral Series: Black Hole" title="Astral Series: Black Hole"/></a>
+  <a href="images/as-cataclysm.webp"><img src="images/as-cataclysm.webp" width="400" alt="Astral Series: Cataclysm" title="Astral Series: Cataclysm"/></a>
   <a href="images/as-cosmic-chaos.webp"><img src="images/as-cosmic-chaos.webp" width="400" alt="Astral Series: Cosmic Chaos" title="Astral Series: Cosmic Chaos"/></a>
   <a href="images/as-ember.webp"><img src="images/as-ember.webp" width="400" alt="Astral Series: Ember" title="Astral Series: Ember"/></a>
   <a href="images/as-moon.webp"><img src="images/as-moon.webp" width="400" alt="Astral Series: Moon" title="Astral Series: Moon"/></a>
@@ -24,7 +26,10 @@ Install in Foundry Virtual Tabletop via manifest:
   <a href="images/as-tide.webp"><img src="images/as-tide.webp" width="400" alt="Astral Series: Tide" title="Astral Series: Tide"/></a>
   <a href="images/cs-candy-hearts.webp"><img src="images/cs-candy-hearts.webp" width="400" alt="Candy Series: Candy Hearts" title="Candy Series: Candy Hearts"/></a>
   <a href="images/cs-cotton-candy.webp"><img src="images/cs-cotton-candy.webp" width="400" alt="Candy Series: Cotton Candy" title="Candy Series: Cotton Candy"/></a>
+  <a href="images/cs-mint-chocolate-chip.webp"><img src="images/cs-mint-chocolate-chip.webp" width="400" alt="Candy Series: Mint Chocolate Chip" title="Candy Series: Mint Chocolate Chip"/></a>
+  <a href="images/cs-saltwater-taffy.webp"><img src="images/cs-saltwater-taffy.webp" width="400" alt="Candy Series: Saltwater Taffy" title="Candy Series: Saltwater Taffy"/></a>
   <a href="images/cs-sweets.webp"><img src="images/cs-sweets.webp" width="400" alt="Candy Series: Sweets" title="Candy Series: Sweets"/></a>
+  <a href="images/cs-waffles.webp"><img src="images/cs-waffles.webp" width="400" alt="Candy Series: Waffles" title="Candy Series: Waffles"/></a>
   <a href="images/os-ice.webp"><img src="images/os-ice.webp" width="400" alt="Obsidian Series: Ice" title="Obsidian Series: Ice"/></a>
   <a href="images/os-magma.webp"><img src="images/os-magma.webp" width="400" alt="Obsidian Series: Magma" title="Obsidian Series: Magma"/></a>
   <a href="images/os-ooze.webp"><img src="images/os-ooze.webp" width="400" alt="Obsidian Series: Ooze" title="Obsidian Series: Ooze"/></a>
@@ -43,6 +48,7 @@ Install in Foundry Virtual Tabletop via manifest:
   <a href="images/ss-warlock.webp"><img src="images/ss-warlock.webp" width="400" alt="Signature Series: Warlock" title="Signature Series: Warlock"/></a>
   <a href="images/ss-wizard.webp"><img src="images/ss-wizard.webp" width="400" alt="Signature Series: Wizard" title="Signature Series: Wizard"/></a>
   <a href="images/sps-abyssal-grave.webp"><img src="images/sps-abyssal-grave.webp" width="400" alt="Spooky Series: Abyssal Grave" title="Spooky Series: Abyssal Grave"/></a>
+  <a href="images/sps-dexters-delight.webp"><img src="images/sps-dexters-delight.webp" width="400" alt="Spooky Series: Dexter's Delight" title="Spooky Series: Dexter's Delight"/></a>
   <a href="images/sps-eldritch-night.webp"><img src="images/sps-eldritch-night.webp" width="400" alt="Spooky Series: Eldritch Night" title="Spooky Series: Eldritch Night"/></a>
   <a href="images/sps-god-damaged.webp"><img src="images/sps-god-damaged.webp" width="400" alt="Spooky Series: God Damaged" title="Spooky Series: God Damaged"/></a>
   <a href="images/sps-hypno-creep.webp"><img src="images/sps-hypno-creep.webp" width="400" alt="Spooky Series: Hypno Creep" title="Spooky Series: Hypno Creep"/></a>
@@ -50,9 +56,11 @@ Install in Foundry Virtual Tabletop via manifest:
   <a href="images/sps-spooky-ghosts.webp"><img src="images/sps-spooky-ghosts.webp" width="400" alt="Spooky Series: Spooky Ghosts" title="Spooky Series: Spooky Ghosts"/></a>
   <a href="images/sps-zombies.webp"><img src="images/sps-zombies.webp" width="400" alt="Spooky Series: Zombies" title="Spooky Series: Zombies"/></a>
   <a href="images/ws-bbc.webp"><img src="images/ws-bbc.webp" width="400" alt="Wildcard Series: BBC (Big Beautiful Cow)" title="Wildcard Series: BBC (Big Beautiful Cow)"/></a>
+  <a href="images/ws-checkers.webp"><img src="images/ws-checkers.webp" width="400" alt="Wildcard Series: Checkers" title="Wildcard Series: Checkers"/></a>
   <a href="images/ws-dragon-scale.webp"><img src="images/ws-dragon-scale.webp" width="400" alt="Wildcard Series: Dragon Scale" title="Wildcard Series: Dragon Scale"/></a>
   <a href="images/ws-gabbys-grass.webp"><img src="images/ws-gabbys-grass.webp" width="400" alt="Wildcard Series: Gabby's Grass" title="Wildcard Series: Gabby's Grass"/></a>
   <a href="images/ws-san-diego-sunset.webp"><img src="images/ws-san-diego-sunset.webp" width="400" alt="Wildcard Series: San Diego Sunset" title="Wildcard Series: San Diego Sunset"/></a>
+  <a href="images/ws-synthwave.webp"><img src="images/ws-synthwave.webp" width="400" alt="Wildcard Series: Synthwave" title="Wildcard Series: Synthwave"/></a>
   <a href="images/ws-vampira.webp"><img src="images/ws-vampira.webp" width="400" alt="Wildcard Series: Vampira" title="Wildcard Series: Vampira"/></a>
   <a href="images/ws-winter-is-coming.webp"><img src="images/ws-winter-is-coming.webp" width="400" alt="Wildcard Series: Winter Is Coming" title="Wildcard Series: Winter Is Coming"/></a>
 </p>
