@@ -33,6 +33,8 @@ const THEME_DEFAULT = {
 
 const SERIES = {
   "Astral Series": [
+    ["black-hole", "Black Hole", "#fde5ce"], // 1.1
+    ["cataclysm", "Cataclysm", "#000000"], // 1.1
     ["cosmic-chaos", "Cosmic Chaos", "#fcae31"],
     ["ember", "Ember", "#6d186c"],
     ["moon", "Moon", "#32333e"],
@@ -47,7 +49,13 @@ const SERIES = {
   "Candy Series": [
     ["candy-hearts", "Candy Hearts", "#bb0306"],
     ["cotton-candy", "Cotton Candy", "#fb87c3"],
-    ["sweets", "Sweets", "#fa9633"]
+    ["mint-chocolate-chip", "Mint Chocolate Chip", "#7fa96e", { // 1.1
+      foreground: "#000000",
+      background: "#000000",
+    }],
+    ["saltwater-taffy", "Saltwater Taffy", "#966763"], // 1.1
+    ["sweets", "Sweets", "#fa9633"],
+    ["waffles", "Waffles", "#f3a936"] // 1.1
   ],
 
   "Obsidian Series": [
@@ -78,6 +86,11 @@ const SERIES = {
 
   "Spooky Series": [
     ["abyssal-grave", "Abyssal Grave", "#005255"],
+    ["dexters-delight", "Dexter's Delight", "#630201", { // 1.1
+      foreground: "#000000",
+      background: "#000000",
+      outline: "#ffffff"
+    }],
     ["eldritch-night", "Eldritch Night", "#784a78"],
     ["god-damaged", "God Damaged", "#af03ef"],
     ["hypno-creep", "Hypno Creep", "#161616"],
@@ -91,9 +104,11 @@ const SERIES = {
       foreground: "#000000",
       background: "#000000",
     }],
+    ["checkers", "Checkers", "#b7050a"], // 1.1
     ["dragon-scale", "Dragon Scale", "#cd4500"],
     ["gabbys-grass", "Gabby's Grass", "#66a509"],
     ["san-diego-sunset", "San Diego Sunset", "#ef0200"],
+    ["synthwave", "Synthwave", "#600095"], // 1.1
     ["vampira", "Vampira", "#c73032"],
     ["winter-is-coming", "Winter Is Coming", "#80a6ff"]
   ]
