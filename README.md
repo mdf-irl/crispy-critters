@@ -2,10 +2,11 @@
   <img src="images/banner.webp" width="1280">
 </p>
 
-Coming soon...
+**Dr. Cricket's Crispy Critters** is a new module for [Foundry Virtual Tabletop](https://foundryvtt.com/) that functions as an add-on to the popular [Dice So Nice!](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) module, adding a plethora of custom new dice sets and customization options for your 3D dice rolling pleasure.
+
 
 ## 💾 Installation
-Install in Foundry VTT via manifest:  
+Install in Foundry Virtual Tabletop via manifest:  
 `https://raw.githubusercontent.com/mdf-irl/crispy-critters/master/module.json`
 
 ---
