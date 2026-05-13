@@ -2,6 +2,7 @@
 
 ## v1.2 — 5-12-26
 ### 🔧 Changes
+- Further code optimization
 - Changed Candy Series: Saltwater Taffy's default loadout to use black numbering
 - Changed Candy Series: Sweets' default loadout to use black numbering
 
