@@ -71,17 +71,23 @@ Install in Foundry VTT via manifest:
 This project is licensed under the [Foundry Virtual Tabletop End User License Agreement's Limited License for Package Development](https://foundryvtt.com/article/license/) and maintains the following licenses:
 
 - **Code:** MIT License (see LICENSE)
-- **Textures / Image Assets:** CC BY-NC-SA 4.0 (see LICENSE-TEXTURES)
 - **Fonts:** SIL Open Font License 1.1 (see LICENSE-FONTS and individual font folders)
+- **Icons:** CC BY 3.0 (see LICENSE-ICONS)
+- **Textures:** CC BY-NC-SA 4.0 (see LICENSE-TEXTURES)
 
 ### Important Notes
 - Commercial use of textures is **not permitted**
 - Use of textures **must be appropriately credited**
-- Fonts may have additional requirements (see individual OFL.txt files)
 
 ---
 
 ## 📎 Attribution
+### Code
+```
+Copyright (c) 2026 mdf (https://github.com/mdf-irl)
+Licensed under MIT License (see LICENSE)
+```
+
 ### Fonts
 * [Inter](https://fonts.google.com/specimen/Inter)
 ```
