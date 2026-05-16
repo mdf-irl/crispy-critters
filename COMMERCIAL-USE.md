@@ -1,5 +1,5 @@
 # Commercial Use Policy (Plain English)
-This document explains what **is and is not allowed** under the CC BY-NC-SA 4.0 license used for textures and image assets in this project.
+This document explains what **is and is not allowed** under the CC BY-NC-SA 4.0 license used for textures in this project.
 
 ## ❌ NOT Allowed (Commercial Use)
 You may NOT:
