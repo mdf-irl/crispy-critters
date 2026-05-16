@@ -1,13 +1,13 @@
 ## 📜 Licensing & Attribution
 This project is licensed under the [Foundry Virtual Tabletop End User License Agreement's Limited License for Package Development](https://foundryvtt.com/article/license/) and maintains the following licenses:
 
-### Code
+### ⚙️ Code
 ```
 Copyright (c) 2026 mdf (https://github.com/mdf-irl)
 Licensed under MIT License (see LICENSE)
 ```
 
-### Fonts
+### ✒️ Fonts
 * [Inter](https://fonts.google.com/specimen/Inter)
 ```
 Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)
@@ -26,7 +26,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.co
 with Reserved Font Name 'New Rocker'
 Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
 ```
-### Icons
+### 🜂 Icons
 * [Cricket](https://game-icons.net/1x1/delapouite/cricket.html)
 * [Dice Fire](https://game-icons.net/1x1/delapouite/dice-fire.html)
 * [Health Potion](https://game-icons.net/1x1/delapouite/health-potion.html)
@@ -34,7 +34,7 @@ Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlic
 Created by Delapouite of game-icons.net
 Licensed under CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
 ```
-### Textures
+### 🎨 Textures
 ```
 Copyright (c) 2026 mdf (https://github.com/mdf-irl)
 Textures from Crispy Critters (https://github.com/mdf-irl/crispy-critters)
