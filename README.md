@@ -67,21 +67,9 @@ Install in Foundry VTT via manifest:
 
 ---
 
-## 📜 Licensing
+## 📜 Licensing & Attribution
 This project is licensed under the [Foundry Virtual Tabletop End User License Agreement's Limited License for Package Development](https://foundryvtt.com/article/license/) and maintains the following licenses:
 
-- **Code:** MIT License (see LICENSE)
-- **Fonts:** SIL Open Font License 1.1 (see LICENSE-FONTS and individual font folders)
-- **Icons:** CC BY 3.0 (see LICENSE-ICONS)
-- **Textures:** CC BY-NC-SA 4.0 (see LICENSE-TEXTURES)
-
-### Important Notes
-- Commercial use of textures is **not permitted**
-- Use of textures **must be appropriately credited**
-
----
-
-## 📎 Attribution
 ### Code
 ```
 Copyright (c) 2026 mdf (https://github.com/mdf-irl)
@@ -107,7 +95,6 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.co
 with Reserved Font Name 'New Rocker'
 Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlicense.org/)
 ```
-
 ### Icons
 * [Cricket](https://game-icons.net/1x1/delapouite/cricket.html)
 * [Dice Fire](https://game-icons.net/1x1/delapouite/dice-fire.html)
@@ -116,7 +103,6 @@ Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlic
 Created by Delapouite of game-icons.net
 Licensed under CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
 ```
-
 ### Textures
 ```
 Copyright (c) 2026 mdf (https://github.com/mdf-irl)
