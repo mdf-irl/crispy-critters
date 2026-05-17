@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.webp" width="1280">
+  <img src="images/00-banner.webp" width="1280">
 </p>
 
 **Dr. Cricket's Crispy Critters** is a module for [Foundry Virtual Tabletop](https://foundryvtt.com/) that functions as an add-on to the popular [Dice So Nice!](https://gitlab.com/riccisi/foundryvtt-dice-so-nice) module, adding 50+ new dice sets and customization options for your 3D dice rolling pleasure.
