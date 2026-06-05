@@ -180,6 +180,44 @@ Hooks.on("init", registerFonts);
 Hooks.once("diceSoNiceReady", async (dice3d) => {
   await registerTextures(dice3d);
   registerThemes(dice3d);
+
+  dice3d.addSystem({
+  id: "random",
+  name: "🦗 Random Crispy Critters (Standard)"
+});
+});
+
+Hooks.on("diceSoNiceRollComplete", async (messageId) => {
+  const msg = game.messages.get(messageId);
+  if (!msg) return;
+
+  const user = msg.author;
+  if (!user) return;
+
+  const colorset = user.flags?.["dice-so-nice"]?.appearance?.global?.colorset;
+
+  if (colorset == "ws-bbc") {
+    const soundNum = Math.floor(Math.random() * 22) + 1;
+
+    await foundry.audio.AudioHelper.play({
+      src: `modules/crispy-critters/sounds/bbc-${soundNum}.ogg`,
+      volume: 1.0,
+      autoplay: true,
+      loop: false
+    }, true);
+  }
+
+  const preset = user.flags?.["dice-so-nice"]?.appearance?.global?.system;
+
+  if (preset == "random") {
+    const randomColorsets = Object.values(SERIES)
+      .flat()
+      .map(([id]) => id)
+      .filter((id) => id !== colorset);
+
+    const newColorset = randomColorsets[Math.floor(Math.random() * randomColorsets.length)];
+    await user.update({"flags.dice-so-nice.appearance.global.colorset": newColorset});
+  }
 });
 
 function registerFonts() {
