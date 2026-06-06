@@ -123,6 +123,12 @@ Licensed under SIL Open Font License, Version 1.1 (OFL-1.1) (https://openfontlic
 Created by Delapouite of game-icons.net
 Licensed under CC BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
 ```
+### 📢 Sounds
+* bbc-1.mp3, bbc-2.mp3, bbc-3.mp3, bbc-4.mp3, bbc-5.mp3
+```
+Sound effects obtained from https://www.zapsplat.com
+Licensed under ZapSplat Standard License Agreement (https://www.zapsplat.com/license-type/standard-license/)
+```
 ### 🎨 Textures
 ```
 Copyright (c) 2026 mdf (https://github.com/mdf-irl)
