@@ -1,5 +1,20 @@
 # 🦗 Changelog
 
+## v1.5 - 6-5-26
+### 🔧 Changes
+- Replaced cow sounds with audio from ZapSplat
+- Fixed bug causing post-roll effects to fire more than once
+- Further code optimization
+
+---
+
+## v1.4 - 6-4-26
+### 🔧 Changes
+- Added cow sounds when rolling `Wildcard Series: BBC (Big Beautiful Cow)`
+- Added `Random Critter (Standard)` preset to use random Crispy Critters themes
+
+---
+
 ## v1.3 - 5-19-26
 ### 🔧 Changes
 - Fixed naming conflict of `Obsidian Series: Ice` with DSN's stock `Ice` theme
